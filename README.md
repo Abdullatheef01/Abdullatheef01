@@ -6,9 +6,24 @@ Hi, I'm Abdul Latheef J, a Computer Science Engineering (CSE) student with a str
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abdul-latheef-j-5576752b9) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC3RERiunYdtizeayh3en27A) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdullatheefsjcetcse@gmail.com) 
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+### Design
+[![My Skills](https://skillicons.dev/icons?i=ps,figma,unity&theme=light)](https://skillicons.dev)
+
+### Front-End Development
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react&theme=light)](https://skillicons.dev)
+
+### Back-End Development
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express&theme=light)](https://skillicons.dev)
+
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=mongodb,supabase&theme=light)](https://skillicons.dev)
+
+### Tooling
+[![My Skills](https://skillicons.dev/icons?i=firebase,vscode,github,git,npm,sublime,postman,linkedin&theme=light)](https://skillicons.dev)
+
+### Deployments
+[![My Skills](https://skillicons.dev/icons?i=vercel&theme=light)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Abdullatheef01&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Abdullatheef01&theme=transparent&hide_border=false)<br/>

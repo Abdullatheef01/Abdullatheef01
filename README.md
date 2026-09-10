@@ -23,7 +23,7 @@ Hi, I'm Abdul Latheef J, a Computer Science Engineering (CSE) student with a str
 [![My Skills](https://skillicons.dev/icons?i=firebase,vscode,github,git,npm,sublime,postman,linkedin&theme=light)](https://skillicons.dev)
 
 ### Deployments
-[![My Skills](https://skillicons.dev/icons?i=vercel&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vercel,netlify&theme=light)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Abdullatheef01&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Abdullatheef01&theme=transparent&hide_border=false)<br/>

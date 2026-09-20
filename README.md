@@ -1,9 +1,11 @@
 # 💫 About Me:
 Hi, I'm Abdul Latheef J, a Computer Science Engineering (CSE) student with a strong passion for Full Stack Development integrated with Artificial Intelligence. I enjoy building innovative applications and continuously exploring new technologies. I have an intermediate level of experience in Python and have used it to develop an Augmented Reality (AR) project. I am also currently working on a Virtual Reality (VR) project using Unity, which helps me expand my skills in immersive technologies. I love coding, solving real-world problems, and turning ideas into functional applications. My goal is to become a professional Full Stack Developer with AI specialization and create impactful, user-friendly solutions while continuously learning and improving my technical expertise.<br> <br>💻 Interested in Full Stack Development + Artificial Intelligence<br>🐍 Intermediate level in Python<br>🧠 Built Augmented Reality (AR) project using Python<br>🥽 Currently working on Virtual Reality (VR) project using Unity<br>🔧 Love coding and solving real-world problems<br>📚 Continuously learning new technologies
 
+[![Github](https://img.shields.io/github/followers/Abdullatheef01?label=Follow&style=social)](https://github.com/Abdullatheef01)
+![](https://komarev.com/ghpvc/?username=Abdullatheef01&color=green)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abdul-latheef-j-5576752b9)
+<a href="https://instagram.com/code_with_abdul/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC3RERiunYdtizeayh3en27A) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdullatheefsjcetcse@gmail.com) 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abdul-latheef-j-5576752b9) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC3RERiunYdtizeayh3en27A) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdullatheefsjcetcse@gmail.com) 
 
 # 💻 Tech Stack:
 ### Design

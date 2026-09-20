@@ -5,7 +5,7 @@ I'm a Computer Science Engineering student. I like to work with React, Node.js, 
 
 [![Github](https://img.shields.io/github/followers/Abdullatheef01?label=Follow&style=social)](https://github.com/Abdullatheef01)
 ![](https://komarev.com/ghpvc/?username=Abdullatheef01&color=green)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abdul-latheef-j-5576752b9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-latheef-j-5576752b9)
 <a href="https://instagram.com/code_with_abdul/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC3RERiunYdtizeayh3en27A) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdullatheefsjcetcse@gmail.com) 
 
 <h2>⚡️ A Few Quick Facts</h2>

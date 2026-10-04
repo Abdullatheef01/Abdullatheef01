@@ -29,7 +29,7 @@ I'm a Computer Science Engineering student. I like to work with React, Node.js, 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,supabase&theme=light)](https://skillicons.dev)
 
 ### Tooling
-[![My Skills](https://skillicons.dev/icons?i=firebase,vscode,github,git,npm,sublime,postman,linkedin&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,vscode,github,git,npm,sublime,postman,pug,linkedin&theme=light)](https://skillicons.dev)
 
 ### Deployments
 [![My Skills](https://skillicons.dev/icons?i=vercel,netlify&theme=light)](https://skillicons.dev)

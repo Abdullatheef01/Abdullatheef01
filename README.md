@@ -1,5 +1,5 @@
 # Hey, I'm ABDUL LATHEEF :)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=009FF7&width=435&height=40&lines=Mern+Stack+Developer;Full+Stack+Engineer;AI+%26+DevOps+Enthusiast;Graphic+Designer;Problem+Solver;Always+Learning;)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=009FF7&width=435&height=40&lines=Mern+Stack+Developer;Open+Source+Contributor;Full+Stack+Engineer;AI+%26+DevOps+Enthusiast;Graphic+Designer;Problem+Solver;Always+Learning;)](https://git.io/typing-svg) 
 <br>
 I'm a Computer Science Engineering student. I like to work with React, Node.js, Express and MongoDB. I love designing clean UIs and graphics. I'm aiming to become an AI Full Stack Developer.<br>
 
